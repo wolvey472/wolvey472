@@ -11,6 +11,9 @@ Hey, my name is Carson Shae and I am a highschooler from North Dakota who has a 
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=wolvey472&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📌 Starred Topics
+![My starred topics](./metrics.topics.svg)
+
 ---
 [![](https://komarev.com/ghpvc/?username=wolvey472&icon=0&color=blue)](https://visitcount.itsvg.in)
 
