@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="38" viewBox="0 0 149 38" fill="none" role="img" aria-label="scikit-learn">
+  <rect x=".5" y=".5" width="148" height="37" rx="7.5" fill="#151C28" stroke="#2C3749"/>
+  <g transform="translate(11 7)" stroke="#9EB4F8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 6 12 6-12 6V6Zm0 0 12 12M6 18 18 6" stroke-opacity=".55"/><circle cx="6" cy="6" r="2.3"/><circle cx="6" cy="18" r="2.3"/><circle cx="18" cy="6" r="2.3"/><circle cx="18" cy="18" r="2.3"/></g>
+  <text x="44" y="24" fill="#DCE5F4" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="500">scikit-learn</text>
+</svg>
