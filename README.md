@@ -1,9 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
-    <img src="./assets/header.svg" alt="Carson Shae — mathematics, data science, and machine learning. Exploring ideas through code." width="100%" />
-  </picture>
-</p>
+
 
 ## About Me
 
